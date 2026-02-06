@@ -6,7 +6,7 @@
 
 ---The analysis was conducted using a structured data analytics workflow in Power BI, applying Power Query for data transformation, data modelling to establish relationships between fact and dimension tables, DAX measures for calculations and interactive visualizations using shapes, colours and slicers for dashboard. 
 
-...Analysis and Findings showed that Total sales for the period amounted to ₦4.16M, generating a total profit of ₦841.69K at a 20% profit margin, indicating a strong and profitable start for the business. January recorded higher sales of ₦2.60M (63%) compared to February with sales of ₦1.56M (37%), resulting in a –40% month-on-month decline, largely influenced by incomplete February data.
+---Analysis and Findings showed that Total sales for the period amounted to ₦4.16M, generating a total profit of ₦841.69K at a 20% profit margin, indicating a strong and profitable start for the business. January recorded higher sales of ₦2.60M (63%) compared to February with sales of ₦1.56M (37%), resulting in a –40% month-on-month decline, largely influenced by incomplete February data.
 
 ---Regional analysis showed the East Region as the most profitable and the North Region as the least profitable. Product analysis identified the Smart Watch in the Gadget department as the top-performing product, contributing 33.83% of total sales. 
 Weekly sales pattern revealed that Wednesdays consistently recorded the highest sales amount across all departments, while Departmental Analysis revealed that the Home and Kitchen Department recorded the highest operational cost of  ₦543.76K out of Total operational costs of  ₦1.62M., highlighting a potential area for cost optimization. 
