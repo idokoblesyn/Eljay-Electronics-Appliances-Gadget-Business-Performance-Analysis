@@ -3,7 +3,8 @@
 ---Eljay Electronics, Appliances & Gadget Shop, a retail shop specializing in the sale of electronic appliances, home equipment, and smart gadgets, officially commenced operations on 1st January, 2025, and this analysis evaluates its early-stage performance for the first two months of operation using dataset from January 1st - 31st and February 1st - 19th, 2025. 
 
 ---The dataset comprised 1,500 records across 15 variables, including sales, profit, region, department, product categories, operational costs, dates and customer identifiers.
-The analysis was conducted using a structured data analytics workflow which includes Power BI, applying Power Query for data transformation, data modelling to establish relationships between fact and dimension tables, DAX measures for calculations and interactive visualizations for dashboard. 
+
+---The analysis was conducted using a structured data analytics workflow in Power BI, applying Power Query for data transformation, data modelling to establish relationships between fact and dimension tables, DAX measures for calculations and interactive visualizations using shapes, colours and slicers for dashboard. 
 
 ...Analysis and Findings showed that Total sales for the period amounted to ₦4.16M, generating a total profit of ₦841.69K at a 20% profit margin, indicating a strong and profitable start for the business. January recorded higher sales of ₦2.60M (63%) compared to February with sales of ₦1.56M (37%), resulting in a –40% month-on-month decline, largely influenced by incomplete February data.
 
