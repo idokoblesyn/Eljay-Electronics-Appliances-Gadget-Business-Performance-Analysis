@@ -27,9 +27,13 @@ Weekly sales pattern revealed that Wednesdays consistently recorded the highest 
 - Customer analysis revealed 1,227 unique customers, with a near-even split between new (698) and repeat customers(656), and a high churn rate of 50.81%  indicating early customer retention challenges, while the average customer satisfaction score of 5.48 suggests a moderate customer experience level, highlighting opportunities for service improvement and enhanced customer engagement strategies.
 
 ## **Recommendations**
-- Based on these findings, it is recommended that
-i.  customer loyalty programs such as discounts, reward points, or membership benefits should be introduced to encourage repeat purchases and reduce customer churn.
-ii. operational expenses particularly within the Home and Kitchen department, which recorded the highest costs should be optimized,
+Based on these findings, it is recommended that
+  
+i.  Customer loyalty programs such as discounts, reward points, or membership benefits should be introduced to encourage repeat purchases and reduce customer churn.
+
+ii. Operational expenses particularly within the Home and Kitchen department, which recorded the highest costs should be optimized.
+
 iii. A follow-up analysis should be conducted once the complete dataset for February and subsequent months become available to enable more accurate trend analysis and strengthen strategic planning.
 
----Overall, while Eljay Electronics, Appliances & Gadget Shop, demonstrated strong profitability and product performance in its early operations, incomplete February data and customer churn rate present key challenges. Further analysis with complete and extended datasets is recommended to improve insight accuracy and support long-term strategic decision-making.
+## **Conclusion**
+Eljay Electronics, Appliances & Gadget Shop, demonstrated strong profitability and product performance in its early operations, incomplete February data and customer churn rate present key challenges. Further analysis with complete and extended datasets is recommended to improve insight accuracy and support long-term strategic decision-making.
