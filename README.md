@@ -1,7 +1,7 @@
 # Eljay-Electronics-Appliances-Gadget-Business-Performance-Analysis
 
 ## **Introduction**
-Eljay Electronics, Appliances & Gadget Shop, a retail shop specializing in the sale of electronic appliances, home equipment, and smart gadgets, officially commenced operations on 1st January, 2025, and this analysis evaluates its early-stage performance for the first two months of operation using dataset from January 1st - 31st and February 1st - 19th, 2025. 
+Eljay Electronics, Appliances & Gadget Shop, a retail shop specialized in the sale of electronic appliances, home equipment, and smart gadgets, officially commenced operations on 1st January, 2025, and this analysis evaluates its early-stage performance for the first two months of operation using dataset from January 1st - 31st and February 1st - 19th, 2025. 
 
 ## **Data Set**
 The dataset comprised 1,500 records across 15 variables, including sales, profit, region, department, product categories, operational costs, dates and customer identifiers.
